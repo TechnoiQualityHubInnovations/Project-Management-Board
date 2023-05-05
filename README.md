@@ -6,7 +6,7 @@
 
 The purpose of a project management board is to provide a clear and concise overview of the project's progress and to help team members collaborate more efficiently.
 
-# Why our Project Management Board 
+# Why our Project Management Board?
 
 ✔️ Our board is designed with PowerApps  to provide a simple and accessible way to manage tasks and workflows without the need for additional expenses or                     subscriptions.  
     
