@@ -65,8 +65,7 @@ The purpose of a project management board is to provide a clear and concise over
   Authentication - Single sign-on using microsoft credentials 
   
   Implemented Role Based Access control ensuring only authorized user's having access to sensitive information.
-  
- 
+
  
  
    
