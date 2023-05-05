@@ -46,11 +46,13 @@ The purpose of a project management board is to provide a clear and concise over
    
       ![image](https://user-images.githubusercontent.com/48203727/236330335-f746aa8e-aa09-4059-a033-bdbf1ce3083a.png)
         
+      ![image](https://user-images.githubusercontent.com/48203727/236330546-640c4745-f280-43db-832d-676409e86242.png) 
+     
   - User can push the Task card using the arrows (shown in the images) to next column which allows users to easily update the tasks
     
       ![image](https://user-images.githubusercontent.com/48203727/236329200-19eb5916-5f85-4cde-8f19-84dc547b0619.png)  
 
-      ![image](https://user-images.githubusercontent.com/48203727/236330546-640c4745-f280-43db-832d-676409e86242.png)
+    
            
    - Additionally, the app can automatically assign a number to each task to make it easier to identify and track. This helps to ensure that tasks are being completed       in the correct order and that nothing falls through the cracks.
     
