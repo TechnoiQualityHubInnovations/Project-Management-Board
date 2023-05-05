@@ -22,9 +22,9 @@ The purpose of a project management board is to provide a clear and concise over
   
 # Technology Stack
   
-  - Power Apps
+  - PowerApps Version 23044
 
-  - Sharepoint
+  - Sharepoint 2019
   
 # Application Frontend Overview
 
